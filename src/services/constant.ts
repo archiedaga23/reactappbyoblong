@@ -1,1 +1,1 @@
-export const API_URL_BASE = '';
+export const API_URL_BASE = 'https://springboot-projectbyrk.herokuapp.com';
